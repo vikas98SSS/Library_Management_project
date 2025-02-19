@@ -1,4 +1,4 @@
-# vikas dhakad
+# Vikas Dhakad
 # Library Management Project using SQL 
 
 ## Project Overview
